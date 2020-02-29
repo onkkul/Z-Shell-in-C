@@ -28,4 +28,4 @@ Though I named it Simple-Shell-in-C, it supports all the complex functionalities
 - Step 2. ./a.out
 
 ***In short, all that you are searching for the assignment... ;-)</br>
-star it if you find it useful!!***
+Star it and Spread the news!!***
