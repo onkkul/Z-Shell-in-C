@@ -1,5 +1,5 @@
 # Simple-Shell-in-C
-This project emulates Linux Shell in C language.
+This project emulates Linux Shell in C language.</br>
 Though I named it Simple-Shell-in-C, it supports all the complex functionalities!!
 
 **System Supports:**
@@ -27,5 +27,5 @@ Though I named it Simple-Shell-in-C, it supports all the complex functionalities
 - Step 1. gcc cmdline.c shell.c
 - Step 2. ./a.out
 
-__In short, all that you are searching for the assignment... ;-)
-_star it if you find it useful!!
+***In short, all that you are searching for the assignment... ;-)</br>
+star it if you find it useful!!***
