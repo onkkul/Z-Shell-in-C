@@ -1,16 +1,16 @@
 # Simple-Shell-in-C
 This project emulates Linux Shell in C language
 
-System supports:
+**System supports:**
 - Infinite Pipeline
 - Infinite Input Redirections
 - All Linux commands
 
-Builtins:
+**Builtins:**
 - exit
 - cd
 - help
 
-Execution Instrucitons:
+**Execution Instrucitons:**
 - Step 1. make clean
 - Step 2. make
