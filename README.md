@@ -6,7 +6,6 @@ Though I named it Simple-Shell-in-C, it supports all the complex functionalities
 - Infinite Pipeline
 - Infinite Input Redirections
 - All Linux commands
-_In short, all that you are searching for the assignment... ;-)
 
 **Used System Calls:**
 1. fork()
@@ -28,4 +27,5 @@ _In short, all that you are searching for the assignment... ;-)
 - Step 1. gcc cmdline.c shell.c
 - Step 2. ./a.out
 
+__In short, all that you are searching for the assignment... ;-)
 _star it if you find it useful!!
